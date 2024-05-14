@@ -101,6 +101,8 @@ Let's review briefly these concepts:
 
    λ = -2; λ = -1;
 
+   So now we found the eigenvalues, we need to find the corrisponding the eigenvectors;
+
 
 
 
