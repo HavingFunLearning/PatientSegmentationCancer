@@ -93,6 +93,10 @@ Let's review briefly these concepts:
     $$
 
 
+    After computing the math, we 3λ + λ^2 + 2 and so we have 3λ + λ^2 + 2 = 0
+
+    After computing the roots we get:
+        (λ + 2) (λ + 1) = 0 
 
 
 
