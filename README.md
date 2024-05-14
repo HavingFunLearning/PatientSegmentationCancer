@@ -81,7 +81,7 @@ Let's review briefly these concepts:
     Now we can compute the determinate;
    
     - How?
-    - for a 3x3 Matrix:
+    - For a 3x3 Matrix:
    
     $$
     \begin{vmatrix}
