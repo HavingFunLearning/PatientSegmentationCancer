@@ -64,14 +64,12 @@ Let's review briefly these concepts:
     7. therefore det (M) = 0 = det ( A - λ ID ) 
     8. let's write M in full form:
   
-   A =     | 0  | 1  |
-           | -2 | 3  |
+            | 0  | 1  |
+            | -2 | 3  |
 
-   (
-          0, 1
-            -2,-3
-          )
-
+   
+            | λ  | 0  |
+            | 0  | λ  |
     -
 
     (
