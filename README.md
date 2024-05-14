@@ -79,8 +79,9 @@ Let's review briefly these concepts:
             | -2  | -3 - λ |
 
     Now we can compute the determinate;
-
-
+   
+    - How? for a 3x3 Matrix:
+    - 
     $$
     \begin{vmatrix}
     a & b & c \\
