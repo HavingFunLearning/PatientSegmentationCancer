@@ -41,7 +41,7 @@ Let's review briefly these concepts:
 
     - Now, let's compute an example: 
 
-        I have a squared matrix:
+        I have a squared matrix A:
 
             | 0  | 1  |
             | -2 | 3  |
@@ -52,7 +52,8 @@ Let's review briefly these concepts:
         Let's figure out its eigenvalues and eigenvectors;
 
     
-    We know an eigenvector has to satisfy the previous definition: A x = LAMBDA x
+    We know an eigenvector has to satisfy the previous definition: A x = λ x
+
 
     1. add the identity matrix (we can add it is equivalent to multiply by 1 an equation), now we have A x = LAMBDA x = LAMBDA IDM x
     2. extract the the following equation: A x - LAMBDA ID x = 0
