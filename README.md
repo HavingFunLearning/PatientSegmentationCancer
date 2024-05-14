@@ -43,7 +43,6 @@ Let's review briefly these concepts:
 
         I have a squared matrix:
 
-            |----|----|
             | 0  | 1  |
             | -2 | 3  |
 
