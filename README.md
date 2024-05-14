@@ -120,4 +120,6 @@ Let's review briefly these concepts:
    [1     [-2   ....
     -1]    2]
 
-   - We found the eigenvectors!
+   - We found the eigenvector!
+   - Now, recap:
+   if we apply A to x and x is an eigenvector, we get a new vector of the same direction and so with the same ratios across the dimensionalities but with different magnitute and the magnitude  is the eigenvalue of that eigenvector.
