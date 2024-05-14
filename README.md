@@ -37,7 +37,9 @@ Let's review briefly these concepts:
 
 2. EigenValues & EigenVectors
 
-    Given a SQUARED matrix A, an EigenVector x is ANY vector which is not equal to 0 such that multipluing A by x gives back some multiple of vector x where that multiplier λ has to be a real number (λ is a eigenvalues for x )
+    - Given a SQUARED matrix A
+   (always think about a matrix as a linear transformation, in other words if is applied to a vector we get a new vector of dimension lenght width of the matrix),
+   - an EigenVector x is ANY vector which is not equal to 0 such that multipluing A by x gives back some multiple of vector x where that multiplier λ has to be a real number (λ is a eigenvalues for x )
 
     - Now, let's compute an example: 
 
@@ -113,4 +115,9 @@ Let's review briefly these concepts:
    Let's compute the matrix-vector multiplication and extract 2 equations:
    - x_2 = - x_1
    - -2x_1 + 3x_2 = -x_2
+  
+   Now, in a more complex case, we have to solve the system of equations, here not since x_2 = - x_1 and so there is an entire family of equations that is:
+   [1     [-2   ....
+    -1]    2]
 
+   - We found the eigenvectors!
