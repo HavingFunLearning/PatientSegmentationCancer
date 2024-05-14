@@ -1,7 +1,8 @@
-# Ancestry_Estimation
+# Patient Segmentation Cancer
 - This project idea is taken from [here](https://www.youtube.com/watch?v=Ur53bjPEPqs)
-- the dataset is taken from [here](https://github.com/marshall4471/Cancer_data/tree/main)
-- I'll use this opportunity to review the PCA
+- The dataset is taken from [here](https://github.com/marshall4471/Cancer_data/tree/main)
+- Yet, there was not a description of the dataset.
+- I'll use this opportunity to review the PCA and review some tecniques used for clustering analysis.
 
 
 ## PCA (Principal compenent analysis)
