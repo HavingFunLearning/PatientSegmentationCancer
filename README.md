@@ -37,7 +37,7 @@ Let's review briefly these concepts:
 
 2. EigenValues & EigenVectors
 
-    Given a SQUARED matrix A, an EigenVector x is ANY vector which is not equal to 0 such that multipluing A by x gives back some multiple of vector x where that multiplier LAMBDA has to be a real number (LAMBDA is a eigenvalues for x )
+    Given a SQUARED matrix A, an EigenVector x is ANY vector which is not equal to 0 such that multipluing A by x gives back some multiple of vector x where that multiplier λ has to be a real number (λ is a eigenvalues for x )
 
     - Now, let's compute an example: 
 
