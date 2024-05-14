@@ -103,8 +103,14 @@ Let's review briefly these concepts:
 
    So now we found the eigenvalues, we need to find the corrisponding the eigenvectors;
 
+   Let's do this phase only for λ = -1:
+   
+
+    | 0  | 1  |     *   | x_1 |    =   | - x_1 |
+    | -2 | 3  |         | x_2 |        | -x_2  |
 
 
-
-
+   Let's compute the matrix-vector multiplication and extract 2 equations:
+   - x_2 = - x_1
+   - -2x_1 + 3x_2 = -x_2
 
