@@ -78,8 +78,9 @@ Let's review briefly these concepts:
             | -λ  | 1  |
             | -2  | -3 - λ |
 
+    Now We can compute the determinate;
 
-    9. We can compute the determinat;
+
 
 
 
