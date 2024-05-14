@@ -43,10 +43,12 @@ Let's review briefly these concepts:
 
         I have a squared matrix:
 
-        A = (  
-            0, 1  
-            -2, 3  
-        )
+            |   |   |
+            |---|---|
+            | 0  |1   |
+            |  -2 |  3 |
+            
+      
 
         Let's figure out its eigenvalues and eigenvectors;
 
