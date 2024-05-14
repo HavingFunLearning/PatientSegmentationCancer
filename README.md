@@ -66,23 +66,18 @@ Let's review briefly these concepts:
   
             | 0  | 1  |
             | -2 | 3  |
-
-   
+ 
+                -
+               
             | λ  | 0  |
             | 0  | λ  |
-    -
 
-    (
-        λ, 0
-        0, λ
-    )
 
-    =
+                =
 
-    (
-        -LAMBDA, 1
-        -2,     -3 - LAMBDA
-    )
+            | -λ  | 1  |
+            | -2  | -3 - λ |
+
 
     9. We can compute the determinat;
 
