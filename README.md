@@ -43,10 +43,11 @@ Let's review briefly these concepts:
 
         I have a squared matrix:
 
-            |c   | c  |
-            |---|---|
-            |0|1|
-            |-2|3|
+            | c  | c  |
+|----|----|
+| 0  | 1  |
+| -2 | 3  |
+
             
       
 
