@@ -55,24 +55,28 @@ Let's review briefly these concepts:
     We know an eigenvector has to satisfy the previous definition: A x = λ x
 
 
-    1. add the identity matrix (we can add it is equivalent to multiply by 1 an equation), now we have A x = LAMBDA x = LAMBDA IDM x
-    2. extract the the following equation: A x - LAMBDA ID x = 0
-    3. Let's factor the x, ( A - LAMBDA ID ) x = 0 
+    1. add the identity matrix (we can add it is equivalent to multiply by 1 an equation), now we have A x = λ x = λ IDM x
+    2. extract the the following equation: A x - λ ID x = 0
+    3. Let's factor the x, ( A - λ ID ) x = 0 
     4. to solve this equation we need to remember that x has to be different from 0
-    5. and so it means there is some matrix M = ( A - LAMBDA ID ) such that if i compute M x i get 0 and so it means M is not invertible
+    5. and so it means there is some matrix M = ( A - λ ID ) such that if i compute M x i get 0 and so it means M is not invertible
     6. if M is invertible, its determinant has to be equal to 0 by def
-    7. therefore det (M) = 0 = det ( A - LAMBDA ID ) 
-    8. let's write M in full form: 
-          (
-    A =      0, 1
+    7. therefore det (M) = 0 = det ( A - λ ID ) 
+    8. let's write M in full form:
+  
+   A =     | 0  | 1  |
+           | -2 | 3  |
+
+   (
+          0, 1
             -2,-3
           )
 
     -
 
     (
-        LAMBDA, 0
-        0, LAMBDA
+        λ, 0
+        0, λ
     )
 
     =
