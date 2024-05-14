@@ -81,6 +81,10 @@ Let's review briefly these concepts:
     Now We can compute the determinate;
 
 
+    \[ \begin{vmatrix} a & b & c \\ d & e & f \\ g & h & i \end{vmatrix} = aei + bfg + cdh - ceg - bdi - afh \]
+
+
+
 
 
 
